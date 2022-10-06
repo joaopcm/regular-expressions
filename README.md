@@ -53,5 +53,5 @@ Ah, e você pode também pesquisar no [Google](https://google.com) ou
 Vai que vai!
 ```
 
-#### Generate a HTML based on the markdown text:
+#### Generate an HTML based on the markdown text:
 Replace `\[(.*?)\]\(([http|https].*?)\)` with `<a href="$2">$1</a>`
